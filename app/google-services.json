@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "234031510864",
+    "firebase_url": "https://messenger-khudiakovkirill.firebaseio.com",
+    "project_id": "messenger-khudiakovkirill",
+    "storage_bucket": "messenger-khudiakovkirill.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234031510864:android:2756d17b55e51b99c5e855",
+        "android_client_info": {
+          "package_name": "khudiakov.kirill.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234031510864-5ef495mo2dbn2s15u7bdcocbl7prchgg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "khudiakov.kirill.messenger",
+            "certificate_hash": "8df05d5b009bec5ab9f293bc0a7405fd7d3285fc"
+          }
+        },
+        {
+          "client_id": "234031510864-nsfu1glng8etahbil1232p4suh4j21km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvJd9h8sgImC17qb8LaGmqY3Bzg8NQoFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234031510864-nsfu1glng8etahbil1232p4suh4j21km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
